@@ -6,6 +6,8 @@
 
 🔗 https://www.thebluealliance.com/team/9626
 
+👋 Hello! We are the ACHS robotics team, a group of high school students who are dedicated to engineering, creativity, and teamwork. Through hands-on design and real-world problem solving, we build robots, develop technical skills, and inspire the next generation of innovators.
+
 <!--
 
 **Here are some ideas to get you started:**
