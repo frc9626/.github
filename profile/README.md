@@ -1,4 +1,4 @@
-![Team 9626's banner](/9626banner.png)
+![Team 9626's banner](https://github.com/frc9626/.github/blob/main/9626banner.png)
 
 ## Team 9626 - JagWire Robotics
 
