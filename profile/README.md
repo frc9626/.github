@@ -1,3 +1,5 @@
+![Team 9626's banner](/9626banner.png)
+
 ## Team 9626 - JagWire Robotics
 
 📅 Rookie Year: 2024
